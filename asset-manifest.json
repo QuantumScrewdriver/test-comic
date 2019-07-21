@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-comic/static/css/main.97d22e8b.chunk.css",
+    "main.js": "/test-comic/static/js/main.8f8286d6.chunk.js",
+    "main.js.map": "/test-comic/static/js/main.8f8286d6.chunk.js.map",
+    "runtime~main.js": "/test-comic/static/js/runtime~main.93af21ee.js",
+    "runtime~main.js.map": "/test-comic/static/js/runtime~main.93af21ee.js.map",
+    "static/js/2.4f017e5b.chunk.js": "/test-comic/static/js/2.4f017e5b.chunk.js",
+    "static/js/2.4f017e5b.chunk.js.map": "/test-comic/static/js/2.4f017e5b.chunk.js.map",
+    "index.html": "/test-comic/index.html",
+    "precache-manifest.2d8c49f9d2f4012d6e958ed6fed1cf19.js": "/test-comic/precache-manifest.2d8c49f9d2f4012d6e958ed6fed1cf19.js",
+    "service-worker.js": "/test-comic/service-worker.js",
+    "static/css/main.97d22e8b.chunk.css.map": "/test-comic/static/css/main.97d22e8b.chunk.css.map"
+  }
+}
